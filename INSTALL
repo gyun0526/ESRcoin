@@ -1,0 +1,9 @@
+Building ESRcoin
+
+See doc/readme-qt.rst for instructions on building ESRcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ESRcoin.
+
+See doc/build-*.txt for instructions on building esrcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of ESRcoin.
